@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gokx13.
-- 🌌 I’m interested in Car's, Rocket's and the virtual world.
+- 🌌 I’m interested in AI, webdev and dogecoin:)
 - 🌱 I’m currently learning Python, Java
-- 💞️ Not yet collaborating 
+- 👨‍💻Not yet collaborating 
 - 📫 Reach me through my mail goku4348@proton.me
 
 <!---
